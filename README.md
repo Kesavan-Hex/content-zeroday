@@ -12,3 +12,14 @@
 
 
 # PRODUCT NO.6 : Alternate Authentication
+   ### * We choose the Alternate Authentication problem to implement the new user friendly environment . This problem is mostly important for the security field to improve the future technology
+   
+  ###  * It also help the users easy to access a secure field of authentication. This Authentication is mostly used in banks to improve their security feature , it help the banks to verify the users in online .
+  
+ # User Segment & Pain Points
+     
+   ### * The most of thethe Online Authentication to reduce their time .  teen ages and elders adapt this producut .The majorty of the peoples are using
+   
+   ### * Our new product help the online Authentication to improve the security features , more user friendly and reduce the time conception . Our project is mostly help the people how using banking Authentications . 
+
+
