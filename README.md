@@ -39,9 +39,25 @@
  * Our product  can also support in future AI technology’s.
 
 
+## Functional Documents
+
+ * We using the Face Authentication and Voice Authentication technology in our product. The face Authentication is run by face morphing technology and live environment scanning .In other hand the voice Authentications are run by the frequency checker and word compassion technology .
+
+ * We add the Face Authentication as First step of verification and Voice Authentication as second step . We also add a new feature in Voice Authentication “LOCKDOWN MODE”. If the user in emergency situation it will automatically shutdown the app and sent notification to the bank.
 
 
+## Key Differentiators & Adoption Plan
 
+ * The basic PIN and OTP Authentication are easily hack or  guess by the hackers. But our real time authentications are very difficult to crack by hackers . Our product is easy to adopt by the users we using the fast and secure  protocol to improve our product .
+
+ * This products are easily accepted by the smartphone users because it secure and others cannot have idea what they are doing.
+
+
+## TEAM MEMBERS 
+   * Thennavan
+   * Sudharsan
+   * Saravanan 
+   * Shaqiq Ahamad
       
  
 
