@@ -20,6 +20,29 @@
      
   * The most of thethe Online Authentication to reduce their time .  teen ages and elders adapt this producut .The majorty of the peoples are using
    
-  * Our new product help the online Authentication to improve the security features , more user friendly and reduce the time conception . Our project is mostly help the people how using banking Authentications . 
+  * Our new product help the online Authentication to improve the security features , more user friendly and reduce the time conception . Our project is mostly help the people how using banking Authentications .
+
+## Pre-Requisite
+
+  *  To solve a problem we are using face Authentication and voice Authentication to make the Authentication more user friendly and efficient .
+
+  *  The basic PIN and OTP Authentication are easily hack or  guess by the hackers. But our real time authentications are very difficult to crack by hackers . We also adding the emergency protocol technology to help the users .
+
+## Azure tools or resources
+
+ * We Build our product using Python , Flutter , SQl and JavaScript.
+
+ * We deploy our  codes in Github to easy to access at any time.
+
+ * It also support the end-to-end protocol and we add a high level encryption .
+
+ * Our product  can also support in future AI technology’s.
+
+
+
+
+
+      
+ 
 
 
