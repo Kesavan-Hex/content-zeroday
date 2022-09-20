@@ -9,7 +9,7 @@
 
 ## PRODUCT NO.6 : Alternate Authentication
       
- - We choose the Alternate Authentication problem to implement the new user friendly environment . This problem is mostly important for the security field to improve the future technology
+ - We choose the Alternate Authentication problem to implement the new user friendly environment . This problem is mostly important to address for the in security field to improve the future technologys in authentications.
   
  - It also help the users easy to access a secure field of authentication. This Authentication is mostly used in banks to improve their security feature , it help the banks to verify the users in online .
   
